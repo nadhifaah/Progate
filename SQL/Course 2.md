@@ -1,4 +1,4 @@
-# SQL Study I 
+# SQL Study II
 SQL adalah bahasa database untuk pengaturan dan analisis data. Dalam pelajaran ini Anda akan mempelajari dasar-dasar pengunaan SQL.
 
 ## **1. Apa itu database?**
